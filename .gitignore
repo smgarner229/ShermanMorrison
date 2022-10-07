@@ -1,0 +1,12 @@
+# Compiled binaries & Executables
+*.exe
+*.o
+*.so
+*.so.*
+*.out 
+
+# Potentially guard against switching to CMake & Responsible compilation
+./build
+
+# Local vscode config
+.vscode
